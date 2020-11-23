@@ -1,0 +1,5 @@
+my_id = 'toshiotopix5555'
+my_pass = 'sbimusashi'
+sbidb_path = '/home/toshio/project/sbitrade/database/sbi.db'
+tmp_dir = '/home/toshio/project/sbitrade/sbitrade/tmp/'
+profit_db_path = '/home/toshio/project/sbitrade/database/profit.db'

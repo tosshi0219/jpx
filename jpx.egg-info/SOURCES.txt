@@ -1,0 +1,10 @@
+README.rst
+jpx/__init__.py
+jpx/crawler.py
+jpx/dumper.py
+jpx/fetcher.py
+jpx/jpxconfig.py
+jpx.egg-info/PKG-INFO
+jpx.egg-info/SOURCES.txt
+jpx.egg-info/dependency_links.txt
+jpx.egg-info/top_level.txt
